@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+		color: #366872;
+		text-align: center;
+}
+
+
+.name{
+	font-size:20px;
+	background-color: #9FD4AB;
+	padding:10px;
+}
+
+
+nav{
+	text-decoration: none;
+	background-color: #9FD4AB; 
+	font-size: 25px;
+	padding: 10px;
+
+}
+
+nav a{
+	text-decoration: none;
+	
+}
+
+.contact{
+	margin: 0 auto;text-align:center;
+font-size:25px;
+	background-color: #9FD4AB;
+	padding: 10px;
+}
+
+.about{
+	font-size:25px;
+	background-color: #9FD4AB;
+	padding: 10px;
+}
+
+
+.contact2{
+	font-size:20px;
+	
+
+}
+
+
+
+body{margin: 0 auto;text-align:center;}
+body{background-color: #CDE6D3;} 
+ 
+
+
+
+
